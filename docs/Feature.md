@@ -4,11 +4,14 @@ title: Feature
 permalink: /feature/
 ---
 
-# Feature 1: Streamlining Data Preprocessing and Statistical Analysis
+## Welcome to another page 
 
-# Feature 2: Enabling Reproducibility 
+### Feature 1: Streamlining Data Preprocessing and Statistical Analysis
 
-# Feature 3: Creating Publication-class Visuals 
+### Feature 2: Enabling Reproducibility 
 
-# Feature 4: User-friendly Interface
+### Feature 3: Creating Publication-class Visuals 
 
+### Feature 4: User-friendly Interface
+
+[back](./) 
